@@ -1,0 +1,11 @@
+   p{
+            background-color: red;
+            color:white;
+            font: size 20px; ;
+        }
+
+    h1{
+        color: blue;
+        font-size: 45px;
+        border: dashed red;
+    }
